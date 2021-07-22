@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/batterylevel/static/css/main.0289aecf.chunk.css",
+    "main.js": "/batterylevel/static/js/main.e939d641.chunk.js",
+    "main.js.map": "/batterylevel/static/js/main.e939d641.chunk.js.map",
+    "runtime-main.js": "/batterylevel/static/js/runtime-main.d677e99f.js",
+    "runtime-main.js.map": "/batterylevel/static/js/runtime-main.d677e99f.js.map",
+    "static/js/2.5dd51372.chunk.js": "/batterylevel/static/js/2.5dd51372.chunk.js",
+    "static/js/2.5dd51372.chunk.js.map": "/batterylevel/static/js/2.5dd51372.chunk.js.map",
+    "static/js/3.4056bfa4.chunk.js": "/batterylevel/static/js/3.4056bfa4.chunk.js",
+    "static/js/3.4056bfa4.chunk.js.map": "/batterylevel/static/js/3.4056bfa4.chunk.js.map",
+    "index.html": "/batterylevel/index.html",
+    "static/css/main.0289aecf.chunk.css.map": "/batterylevel/static/css/main.0289aecf.chunk.css.map",
+    "static/js/2.5dd51372.chunk.js.LICENSE.txt": "/batterylevel/static/js/2.5dd51372.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d677e99f.js",
+    "static/js/2.5dd51372.chunk.js",
+    "static/css/main.0289aecf.chunk.css",
+    "static/js/main.e939d641.chunk.js"
+  ]
+}
