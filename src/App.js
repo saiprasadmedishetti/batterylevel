@@ -17,12 +17,10 @@ function App() {
     }
   }, [isCharging, batteryLevel]);
 
-  const interval = setInterval(() => {
-    getBattery();
-  }, 1000);
-
   useEffect(() => {
-    getBattery();
+    const interval = setInterval(() => {
+      getBattery();
+    }, 1000);
     return () => {
       clearInterval(interval);
     };
